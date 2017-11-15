@@ -1,0 +1,46 @@
+#wrapper {
+    margin : auto;
+    margin-top: 100px;
+    border: 3px solid black;
+    width: 650px;
+    background-color: #e2ae15;
+    height: auto;
+}
+
+body {
+    background-color: #b9110f;
+}
+
+h1 {
+    text-align: center;
+    color : #0261ea;
+}
+
+#result {
+    margin-top: 6px;
+    background-color: #1f9e75;
+}
+
+#country {
+    width: 55%;
+}
+
+#controls{
+    padding-top: 22px;
+    font-size: 1.30em;
+}
+
+label {
+    color: #0261ea;
+    font-weight: bold;
+}
+
+button {
+    padding-left: 10px;
+    font-size: 1.05em;
+    color: #ff5733;
+    background-color: #4c4947;
+    border: #ffffff solid 2px;
+}
+
+
