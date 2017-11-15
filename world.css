@@ -16,9 +16,24 @@ h1 {
     color : #0261ea;
 }
 
+#head {
+    background-color: #dcd0c0;
+    padding: 0px;
+    margin:0px;
+}
+
+#search-result-heading {
+    text-align: center;
+    color : #b9110f;
+    font-size: 1.55em;
+}
+
 #result {
+    font-size: 1.25em;
     margin-top: 6px;
     background-color: #1f9e75;
+    padding:0px;
+    margin:0px;
 }
 
 #country {
